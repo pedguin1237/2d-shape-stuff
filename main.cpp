@@ -1,3 +1,5 @@
+// This defines and executes a function to draw a rectangle in the terminal!
+
 #include <iostream>
 #include <string>
 
